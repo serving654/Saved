@@ -1,4 +1,4 @@
-UWUA-JVN2-MUFK-ZKL4
+QECK-SCTL-VWJY-FSZK
 SAVED - install as an app
 
 1. Upload everything in this folder (keep the icons folder) to any HTTPS host,
